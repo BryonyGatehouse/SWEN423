@@ -1,4 +1,4 @@
-# Assignment 1 : Web Assessment
+# Web Assessment
 
 Complete the online questions. 
 
